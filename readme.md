@@ -10,3 +10,11 @@ Testes em aplicações javascript com grunt.
 
 - Npm
 - Node
+
+## Instalação
+
+```
+$ cd /path/to/project
+$ npm install grunt
+$ npm install grunt-jasmine-runner
+```
